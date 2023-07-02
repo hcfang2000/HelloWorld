@@ -1,3 +1,4 @@
+// from https://code.visualstudio.com/docs/cpp/config-mingw
 #include <iostream>
 #include <vector>
 #include <string>
